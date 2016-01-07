@@ -11,11 +11,11 @@ Download the iTerm terminal from
 2. To install applications from command line you will need a brew package manager available for mac os x.
 =============
 steps to install home-brew
- - Open your iTerm (command+space then type iterm )
+ - Open your iTerm (````command+space```` then type iterm )
  - Type this command on iTerm window 
  - ```` ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ````
  - There you go !!!
- -  Now you can install any app from command line e.g brew cask install google-chrome 
+ -  Now you can install any app from command line e.g ````brew cask install google-chrome ````
 
 3. Lets make your Iterm more beautiful
 =============
