@@ -1,4 +1,4 @@
-# Customise-Mac-OS-X
+# Customise-I-Term
 Hey folks, DO you use mac ?? Yeah ? Great !!! 
 Lets make it more beautiful 
 
